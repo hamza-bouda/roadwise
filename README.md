@@ -338,6 +338,4 @@ git push
 
 ---
 
-## Licence
 
-MIT
