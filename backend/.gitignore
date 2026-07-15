@@ -1,0 +1,17 @@
+# Maven
+target/
+*.jar
+*.war
+*.class
+
+# IDE
+.idea/
+*.iml
+.settings/
+.classpath
+.project
+
+# Secrets — NE JAMAIS COMMITER
+src/main/resources/firebase-service-account.json
+src/main/resources/application-prod.properties
+*.env

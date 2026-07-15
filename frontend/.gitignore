@@ -1,0 +1,13 @@
+# Dépendances
+node_modules/
+dist/
+dist-electron/
+
+# Secrets
+.env
+.env.local
+.env.production
+
+# IDE
+.idea/
+.vscode/

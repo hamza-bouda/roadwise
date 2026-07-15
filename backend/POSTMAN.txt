@@ -1,0 +1,24 @@
+for user adding
+{
+  "name": "anass fghjdfg",
+  "email": "anass@example.com",
+  "passwordHash": "hashed_password_here",
+  "phone": "+212600000000",
+  "role": "admin",
+  "createdAt": "2024-05-01T10:00:00Z", # this is an object from import java.time.Instant;
+  "team": "KgX3YDsVdcAjOXkdrayd" # this is the teamId
+}
+
+adding maintenance :
+{
+  "title": "Pothole Repair Downtown11",
+  "plannedDate": "2024-05-01T10:00:00Z",
+  "type": "asphalt",
+  "estimatedDurationHours": 5,
+  "status": "scheduled",
+  "team": "KgX3YDsVdcAjOXkdrayd"
+}
+add a team :
+{
+    "name": "Road Repair Crew Z"
+}

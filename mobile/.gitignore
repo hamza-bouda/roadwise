@@ -1,0 +1,17 @@
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+*.g.dart
+
+# Secrets Firebase
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+
+# Clés API
+lib/src/keys.dart
+
+# IDE
+.idea/
+*.iml
